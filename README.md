@@ -5,7 +5,7 @@
 * file is [main.py](https://github.com/deningeorge/first_deninAssesment/blob/main/main.py) which is just in the root folder
 * Python code I added more features than Java
 
-#### Java  (uploaded on March 27 Sunday at about 2:57 pm)
+#### Java  ( uploaded on March 27 Sunday at about 2:57 pm)
 * Build using Maven (zipped and saved as Denin_CGI_java in root folder)
 * predictorMainclass is the main java class of the project, run from that
 * used Google Gson for json parsing
