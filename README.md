@@ -5,5 +5,6 @@
 * Python code I added more features than Java
 
 #### Java  (uploaded on march 27 Sunday 
-Build using Maven
+* Build using Maven
+* predictorMainclass is the main java class of the project, run from that
 
