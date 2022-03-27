@@ -5,7 +5,7 @@
 * Python code I added more features than Java
 
 #### Java  (uploaded on March 27 Sunday 
-* Build using Maven
+* Build using Maven (zipped and saved as Denin_CGI_java in root folder)
 * predictorMainclass is the main java class of the project, run from that
 * used Google Gson for json parsing
 
