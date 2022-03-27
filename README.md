@@ -11,7 +11,8 @@
 * used Google Gson for json parsing
 
 # Python Screenshot
-<img width="1440" alt="Screen Shot 2022-03-27 at 3 06 16 PM" src="https://user-images.githubusercontent.com/25522911/160296800-59cec8be-b269-4e23-b6c2-e7bdb6cf8f90.png">
+<img width="1440" alt="Screen Shot 2022-03-27 at 3 11 04 PM" src="https://user-images.githubusercontent.com/25522911/160296867-2c02b012-55d0-4bfa-9663-ca479ec1ec69.png">
+
 
 # Java Screenshot
 <img width="1440" alt="Screen Shot 2022-03-27 at 2 51 40 PM" src="https://user-images.githubusercontent.com/25522911/160296636-1657af0d-d23d-4290-ba91-d6e0485739a8.png">
