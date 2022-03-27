@@ -10,3 +10,4 @@
 * predictorMainclass is the main java class of the project, run from that
 * used Google Gson for json parsing
 
+<img width="1440" alt="Screen Shot 2022-03-27 at 2 51 40 PM" src="https://user-images.githubusercontent.com/25522911/160296636-1657af0d-d23d-4290-ba91-d6e0485739a8.png">
